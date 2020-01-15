@@ -1,0 +1,9 @@
+name: ordered-union
+version: 0.1.0
+
+authors:
+  - Kim Burgess <kim@acaprojects.com>
+
+crystal: 0.31.1
+
+license: MIT
